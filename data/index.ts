@@ -72,15 +72,15 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+      title: "Nike Store Website",
+      des: "This a practice website of a Nike store",
       img: "/nike.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
       link: "https://shop-design-gamma.vercel.app/",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
+      title: "Video Conferencing App",
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
